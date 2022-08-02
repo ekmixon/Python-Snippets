@@ -13,5 +13,4 @@ result = ""
 for i in ctuple:
     lol=pow(i,d,n)
     result+=chr(lol)
-print result
 
